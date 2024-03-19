@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App de Restaurante</string>
+    <string name="button_food_item">Add Card</string>
+</resources>
